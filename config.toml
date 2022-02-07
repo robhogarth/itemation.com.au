@@ -1,0 +1,4 @@
+baseURL = "https://itemation.com/"
+languageCode = "en-us"
+title = "Itemation"
+theme = "dimension"
