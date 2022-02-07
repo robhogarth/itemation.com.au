@@ -1,4 +1,4 @@
-baseURL = "https://itemation.com/"
+baseURL = "https://itemation.com.au/"
 languageCode = "en-us"
 title = "Itemation"
 theme = "dimension"
